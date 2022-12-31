@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Hero","l":"act()"},{"p":"<Unnamed>","c":"Hero","l":"Hero()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"MyWorld","l":"MyWorld()","url":"%3Cinit%3E()"}]
